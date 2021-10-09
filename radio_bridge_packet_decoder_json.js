@@ -702,3 +702,5 @@ function Convert(number, mode) {
     }
     return result;
 }
+
+exports.Generic_Decoder = Generic_Decoder;
